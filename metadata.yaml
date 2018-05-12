@@ -1,0 +1,26 @@
+_repo: The-First-Book-of-Farming_16900
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16900-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goodrich, C. L. (Charles Landon)
+    alias: Goodrich, Charles Landon
+    birthdate: 1859
+    gutenberg_agent_id: '7005'
+    url: http://www.gutenberg.org/2009/agents/7005
+description: ''
+gutenberg_issued: '2005-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Agriculture'
+title: The First Book of Farming
+url: http://www.gutenberg.org/ebooks/16900
